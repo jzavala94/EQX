@@ -1,0 +1,18 @@
+# PlatformIO build artifacts y cache
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Configuración del editor local
+.vscode/
+.idea/
+
+# Archivos de credenciales privadas
+secrets.h
+credentials.h
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
