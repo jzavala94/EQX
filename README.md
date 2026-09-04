@@ -116,7 +116,7 @@ If you found this project useful, consider buying me a coffee
 
 <p align="center">
   <a href="https://buymeacoffee.com/jzavala94">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="240" />
   </a>
 </p>
 
