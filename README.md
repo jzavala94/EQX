@@ -109,3 +109,9 @@ This project is licensed under the **PolyForm Noncommercial License 1.0.0** — 
 
 - **Permitted:** inspecting, downloading, modifying, 3D-printing, and building this project for personal, noncommercial use.
 - **Prohibited:** commercial use, including selling assembled units, kits, printed parts, or offering paid services derived from this repository, without prior written permission from the author.
+
+## Support
+
+If you found this project useful, consider buying me a coffee ☕
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/jzavala94)
