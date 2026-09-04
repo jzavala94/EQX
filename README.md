@@ -112,6 +112,11 @@ This project is licensed under the **PolyForm Noncommercial License 1.0.0** — 
 
 ## Support
 
-If you found this project useful, consider buying me a coffee ☕
+If you found this project useful, consider buying me a coffee 
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/jzavala94)
+<p align="center">
+  <a href="https://buymeacoffee.com/jzavala94">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180" />
+  </a>
+</p>
+
